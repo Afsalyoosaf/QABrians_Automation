@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="60" passed="54" failed="6" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-16T09:42:07 IST" name="Suite" finished-at="2026-08-16T10:01:31 IST" duration-ms="1164769">
+    <groups>
+    </groups>
+    <test started-at="2026-08-16T09:42:07 IST" name="Test" finished-at="2026-08-16T10:01:31 IST" duration-ms="1164769">
+      <class name="TestPackage.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:13 IST" name="setup" finished-at="2026-08-16T09:53:18 IST" duration-ms="5421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:18 IST" name="loginApplication" finished-at="2026-08-16T09:53:22 IST" duration-ms="3545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="navigateToCart()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:22 IST" name="navigateToCart" finished-at="2026-08-16T09:53:32 IST" duration-ms="10188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:32 IST" name="tearDown" finished-at="2026-08-16T09:53:32 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:32 IST" name="setup" finished-at="2026-08-16T09:53:44 IST" duration-ms="11297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:44 IST" name="loginApplication" finished-at="2026-08-16T09:53:47 IST" duration-ms="3598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyAddAllProductsToCart()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:53:47 IST" name="verifyAddAllProductsToCart" finished-at="2026-08-16T09:54:41 IST" duration-ms="53690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddAllProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:41 IST" name="tearDown" finished-at="2026-08-16T09:54:41 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:41 IST" name="setup" finished-at="2026-08-16T09:54:49 IST" duration-ms="8095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:49 IST" name="loginApplication" finished-at="2026-08-16T09:54:53 IST" duration-ms="3487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyDecreaseProductQuantity()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:53 IST" name="verifyDecreaseProductQuantity" finished-at="2026-08-16T09:54:56 IST" duration-ms="2758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDecreaseProductQuantity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:56 IST" name="tearDown" finished-at="2026-08-16T09:54:56 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:54:56 IST" name="setup" finished-at="2026-08-16T09:55:02 IST" duration-ms="5593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:02 IST" name="loginApplication" finished-at="2026-08-16T09:55:07 IST" duration-ms="5570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyIncreaseProductQuantity()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:07 IST" name="verifyIncreaseProductQuantity" finished-at="2026-08-16T09:55:10 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncreaseProductQuantity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:10 IST" name="tearDown" finished-at="2026-08-16T09:55:11 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:11 IST" name="setup" finished-at="2026-08-16T09:55:16 IST" duration-ms="5601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:16 IST" name="loginApplication" finished-at="2026-08-16T09:55:20 IST" duration-ms="3476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyProductAddedToCart()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:20 IST" name="verifyProductAddedToCart" finished-at="2026-08-16T09:55:21 IST" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:21 IST" name="tearDown" finished-at="2026-08-16T09:55:22 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:22 IST" name="setup" finished-at="2026-08-16T09:55:28 IST" duration-ms="6412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:28 IST" name="loginApplication" finished-at="2026-08-16T09:55:32 IST" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyRemoveItemFromCart()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:32 IST" name="verifyRemoveItemFromCart" finished-at="2026-08-16T09:55:44 IST" duration-ms="12538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveItemFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CartTest@5b94b04d]" started-at="2026-08-16T09:55:44 IST" name="tearDown" finished-at="2026-08-16T09:55:44 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPackage.CartTest -->
+      <class name="TestPackage.FavouriteListTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:55:44 IST" name="setup" finished-at="2026-08-16T09:55:53 IST" duration-ms="9041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:55:53 IST" name="loginApplication" finished-at="2026-08-16T09:55:57 IST" duration-ms="3557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="checkCart()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:55:57 IST" name="checkCart" finished-at="2026-08-16T09:56:02 IST" duration-ms="5103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:02 IST" name="tearDown" finished-at="2026-08-16T09:56:02 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:02 IST" name="setup" finished-at="2026-08-16T09:56:09 IST" duration-ms="6733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:09 IST" name="loginApplication" finished-at="2026-08-16T09:56:13 IST" duration-ms="3986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyContinueShoppingFromEmptyFavouriteList()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:13 IST" name="verifyContinueShoppingFromEmptyFavouriteList" finished-at="2026-08-16T09:56:16 IST" duration-ms="3302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContinueShoppingFromEmptyFavouriteList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:16 IST" name="tearDown" finished-at="2026-08-16T09:56:17 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:17 IST" name="setup" finished-at="2026-08-16T09:56:23 IST" duration-ms="5928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:23 IST" name="loginApplication" finished-at="2026-08-16T09:56:27 IST" duration-ms="3507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyFavouritePageNavigation()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:27 IST" name="verifyFavouritePageNavigation" finished-at="2026-08-16T09:56:28 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFavouritePageNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:28 IST" name="tearDown" finished-at="2026-08-16T09:56:28 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:28 IST" name="setup" finished-at="2026-08-16T09:56:34 IST" duration-ms="5774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:34 IST" name="loginApplication" finished-at="2026-08-16T09:56:39 IST" duration-ms="4871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyProductAddedToFavourite()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:56:39 IST" name="verifyProductAddedToFavourite" finished-at="2026-08-16T09:57:02 IST" duration-ms="22632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToFavourite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:02 IST" name="tearDown" finished-at="2026-08-16T09:57:02 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:02 IST" name="setup" finished-at="2026-08-16T09:57:09 IST" duration-ms="7072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:09 IST" name="loginApplication" finished-at="2026-08-16T09:57:14 IST" duration-ms="4868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyProductRemovedFromFavoutite()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:14 IST" name="verifyProductRemovedFromFavoutite" finished-at="2026-08-16T09:57:18 IST" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductRemovedFromFavoutite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:18 IST" name="tearDown" finished-at="2026-08-16T09:57:18 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:18 IST" name="setup" finished-at="2026-08-16T09:57:27 IST" duration-ms="8669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:27 IST" name="loginApplication" finished-at="2026-08-16T09:57:30 IST" duration-ms="3522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyProductToCart()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:30 IST" name="verifyProductToCart" finished-at="2026-08-16T09:57:34 IST" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.FavouriteListTest@8c3b9d]" started-at="2026-08-16T09:57:34 IST" name="tearDown" finished-at="2026-08-16T09:57:34 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPackage.FavouriteListTest -->
+      <class name="TestPackage.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:57:34 IST" name="setup" finished-at="2026-08-16T09:57:42 IST" duration-ms="7920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:57:42 IST" name="loginApplication" finished-at="2026-08-16T09:57:47 IST" duration-ms="4574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCancelButtonNavigatesToCart()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:57:47 IST" name="verifyCancelButtonNavigatesToCart" finished-at="2026-08-16T09:57:52 IST" duration-ms="5954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCancelButtonNavigatesToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:57:52 IST" name="tearDown" finished-at="2026-08-16T09:57:53 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:57:53 IST" name="setup" finished-at="2026-08-16T09:58:02 IST" duration-ms="9166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:58:02 IST" name="loginApplication" finished-at="2026-08-16T09:58:05 IST" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCheckoutAllProductsFromPage()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:58:05 IST" name="verifyCheckoutAllProductsFromPage" finished-at="2026-08-16T09:59:19 IST" duration-ms="73477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutAllProductsFromPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:19 IST" name="tearDown" finished-at="2026-08-16T09:59:19 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:19 IST" name="setup" finished-at="2026-08-16T09:59:24 IST" duration-ms="4939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:24 IST" name="loginApplication" finished-at="2026-08-16T09:59:31 IST" duration-ms="6531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCheckoutValidationWithInvalidData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:31 IST" name="verifyCheckoutValidationWithInvalidData" data-provider="invalidCheckoutInputs" finished-at="2026-08-16T09:59:39 IST" duration-ms="8313" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Empty Mandatory Fields]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Order submitted successfully despite invalid input in scenario: Empty Mandatory Fields expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Order submitted successfully despite invalid input in scenario: Empty Mandatory Fields expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertFalse(Assert.java:79)
+at TestPackage.CheckoutTest.verifyCheckoutValidationWithInvalidData(CheckoutTest.java:93)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutValidationWithInvalidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:39 IST" name="tearDown" finished-at="2026-08-16T09:59:40 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:40 IST" name="setup" finished-at="2026-08-16T09:59:45 IST" duration-ms="5374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:45 IST" name="loginApplication" finished-at="2026-08-16T09:59:49 IST" duration-ms="4001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCheckoutValidationWithInvalidData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:49 IST" name="verifyCheckoutValidationWithInvalidData" data-provider="invalidCheckoutInputs" finished-at="2026-08-16T09:59:57 IST" duration-ms="7702" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1233]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dave]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Numeric First Name]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Order submitted successfully despite invalid input in scenario: Numeric First Name expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Order submitted successfully despite invalid input in scenario: Numeric First Name expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertFalse(Assert.java:79)
+at TestPackage.CheckoutTest.verifyCheckoutValidationWithInvalidData(CheckoutTest.java:93)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutValidationWithInvalidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:57 IST" name="tearDown" finished-at="2026-08-16T09:59:57 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T09:59:57 IST" name="setup" finished-at="2026-08-16T10:00:03 IST" duration-ms="6013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:03 IST" name="loginApplication" finished-at="2026-08-16T10:00:06 IST" duration-ms="3540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCheckoutValidationWithInvalidData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:06 IST" name="verifyCheckoutValidationWithInvalidData" data-provider="invalidCheckoutInputs" finished-at="2026-08-16T10:00:15 IST" duration-ms="8908" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Numeric Last Name]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Order submitted successfully despite invalid input in scenario: Numeric Last Name expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Order submitted successfully despite invalid input in scenario: Numeric Last Name expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertFalse(Assert.java:79)
+at TestPackage.CheckoutTest.verifyCheckoutValidationWithInvalidData(CheckoutTest.java:93)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutValidationWithInvalidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:15 IST" name="tearDown" finished-at="2026-08-16T10:00:16 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:16 IST" name="setup" finished-at="2026-08-16T10:00:21 IST" duration-ms="5186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:21 IST" name="loginApplication" finished-at="2026-08-16T10:00:24 IST" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyCheckoutValidationWithInvalidData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:24 IST" name="verifyCheckoutValidationWithInvalidData" data-provider="invalidCheckoutInputs" finished-at="2026-08-16T10:00:32 IST" duration-ms="7654" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dave]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jknjkn]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Non-numeric Zip Code]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Order submitted successfully despite invalid input in scenario: Non-numeric Zip Code expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Order submitted successfully despite invalid input in scenario: Non-numeric Zip Code expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertFalse(Assert.java:79)
+at TestPackage.CheckoutTest.verifyCheckoutValidationWithInvalidData(CheckoutTest.java:93)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutValidationWithInvalidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:32 IST" name="tearDown" finished-at="2026-08-16T10:00:32 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:32 IST" name="setup" finished-at="2026-08-16T10:00:37 IST" duration-ms="4668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:37 IST" name="loginApplication" finished-at="2026-08-16T10:00:41 IST" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyEmailFieldIsNotEditable()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:41 IST" name="verifyEmailFieldIsNotEditable" finished-at="2026-08-16T10:00:45 IST" duration-ms="3427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailFieldIsNotEditable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:45 IST" name="tearDown" finished-at="2026-08-16T10:00:45 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:45 IST" name="setup" finished-at="2026-08-16T10:00:49 IST" duration-ms="3930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:49 IST" name="loginApplication" finished-at="2026-08-16T10:00:52 IST" duration-ms="3499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyNavigateToCheckout()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:52 IST" name="verifyNavigateToCheckout" finished-at="2026-08-16T10:00:55 IST" duration-ms="2912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateToCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:55 IST" name="tearDown" finished-at="2026-08-16T10:00:56 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:00:56 IST" name="setup" finished-at="2026-08-16T10:01:00 IST" duration-ms="4566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:00 IST" name="loginApplication" finished-at="2026-08-16T10:01:04 IST" duration-ms="3522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifyPreventDuplicateOrderOnMultiClick()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:04 IST" name="verifyPreventDuplicateOrderOnMultiClick" finished-at="2026-08-16T10:01:13 IST" duration-ms="8831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPreventDuplicateOrderOnMultiClick -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:13 IST" name="tearDown" finished-at="2026-08-16T10:01:13 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:13 IST" name="setup" finished-at="2026-08-16T10:01:18 IST" duration-ms="4960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:18 IST" name="loginApplication" finished-at="2026-08-16T10:01:21 IST" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="verifySuccessfulOrderPlacement()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:21 IST" name="verifySuccessfulOrderPlacement" finished-at="2026-08-16T10:01:29 IST" duration-ms="8088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulOrderPlacement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CheckoutTest@4c39bec8]" started-at="2026-08-16T10:01:29 IST" name="tearDown" finished-at="2026-08-16T10:01:31 IST" duration-ms="1829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPackage.CheckoutTest -->
+      <class name="TestPackage.LoginNegativeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:09 IST" name="setup" finished-at="2026-08-16T09:42:39 IST" duration-ms="29750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:39 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:42:42 IST" duration-ms="3675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrong@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Wrong123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid email & invalid password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:42 IST" name="tearDown" finished-at="2026-08-16T09:42:43 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:43 IST" name="setup" finished-at="2026-08-16T09:42:52 IST" duration-ms="8934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:52 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:42:55 IST" duration-ms="3521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WrongPass]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid email & invalid password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:55 IST" name="tearDown" finished-at="2026-08-16T09:42:55 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:42:55 IST" name="setup" finished-at="2026-08-16T09:43:02 IST" duration-ms="6963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:02 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:43:06 IST" duration-ms="3530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Unregistered email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:06 IST" name="tearDown" finished-at="2026-08-16T09:43:06 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:06 IST" name="setup" finished-at="2026-08-16T09:43:14 IST" duration-ms="7885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:14 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:43:18 IST" duration-ms="3550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:18 IST" name="tearDown" finished-at="2026-08-16T09:43:18 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:18 IST" name="setup" finished-at="2026-08-16T09:43:34 IST" duration-ms="15708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:34 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:43:37 IST" duration-ms="3542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajbbd,kvckj;vlj;vk fljnkjok]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Random text as email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:37 IST" name="tearDown" finished-at="2026-08-16T09:43:38 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:38 IST" name="setup" finished-at="2026-08-16T09:43:58 IST" duration-ms="20442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:43:58 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:44:02 IST" duration-ms="3551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jzbbvb5451551454454545465465435]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Very long password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:02 IST" name="tearDown" finished-at="2026-08-16T09:44:02 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:02 IST" name="setup" finished-at="2026-08-16T09:44:10 IST" duration-ms="8422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:10 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:44:14 IST" duration-ms="3453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Blank email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:14 IST" name="tearDown" finished-at="2026-08-16T09:44:14 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:14 IST" name="setup" finished-at="2026-08-16T09:44:30 IST" duration-ms="16381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:30 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:44:34 IST" duration-ms="3500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Blank password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:34 IST" name="tearDown" finished-at="2026-08-16T09:44:34 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:34 IST" name="setup" finished-at="2026-08-16T09:44:57 IST" duration-ms="22480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:44:57 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:45:00 IST" duration-ms="3451" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Both fields blank]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:00 IST" name="tearDown" finished-at="2026-08-16T09:45:00 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:00 IST" name="setup" finished-at="2026-08-16T09:45:11 IST" duration-ms="10019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:11 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:45:14 IST" duration-ms="3499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testqabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email without @]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:14 IST" name="tearDown" finished-at="2026-08-16T09:45:16 IST" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:16 IST" name="setup" finished-at="2026-08-16T09:45:26 IST" duration-ms="9795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:26 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:45:29 IST" duration-ms="3495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Incomplete email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:29 IST" name="tearDown" finished-at="2026-08-16T09:45:29 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:29 IST" name="setup" finished-at="2026-08-16T09:45:40 IST" duration-ms="10465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:40 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:45:43 IST" duration-ms="3482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email without domain extension]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:43 IST" name="tearDown" finished-at="2026-08-16T09:45:44 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:44 IST" name="setup" finished-at="2026-08-16T09:45:49 IST" duration-ms="5581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:49 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:45:53 IST" duration-ms="3558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TEST@QABRAINS.COM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Uppercase email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:53 IST" name="tearDown" finished-at="2026-08-16T09:45:53 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:45:53 IST" name="setup" finished-at="2026-08-16T09:46:01 IST" duration-ms="7521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:01 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:46:04 IST" duration-ms="3523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid email & valid password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PASS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:04 IST" name="tearDown" finished-at="2026-08-16T09:46:04 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:04 IST" name="setup" finished-at="2026-08-16T09:46:10 IST" duration-ms="5846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:10 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:46:14 IST" duration-ms="3506" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Leading whitespace in email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected login failure for : Leading whitespace in email expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected login failure for : Leading whitespace in email expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at TestPackage.LoginNegativeTest.verifyLogin(LoginNegativeTest.java:38)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:14 IST" name="tearDown" finished-at="2026-08-16T09:46:14 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:14 IST" name="setup" finished-at="2026-08-16T09:46:22 IST" duration-ms="7434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:22 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:46:25 IST" duration-ms="3476" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Trailing whitespace in email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected login failure for : Trailing whitespace in email expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected login failure for : Trailing whitespace in email expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at TestPackage.LoginNegativeTest.verifyLogin(LoginNegativeTest.java:38)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:25 IST" name="tearDown" finished-at="2026-08-16T09:46:25 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:25 IST" name="setup" finished-at="2026-08-16T09:46:33 IST" duration-ms="8190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:33 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:46:37 IST" duration-ms="3511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Leading whitespace in password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:37 IST" name="tearDown" finished-at="2026-08-16T09:46:37 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:37 IST" name="setup" finished-at="2026-08-16T09:46:50 IST" duration-ms="12189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:50 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:46:53 IST" duration-ms="3502" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PASSWORD123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Incorrect case in password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:53 IST" name="tearDown" finished-at="2026-08-16T09:46:53 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:46:53 IST" name="setup" finished-at="2026-08-16T09:47:04 IST" duration-ms="11172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:04 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:47:08 IST" duration-ms="3503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin' OR '1'='1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SQL Injection in email field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:08 IST" name="tearDown" finished-at="2026-08-16T09:47:08 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:08 IST" name="setup" finished-at="2026-08-16T09:47:26 IST" duration-ms="18227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:26 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:47:30 IST" duration-ms="3491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[' OR '1'='1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SQL Injection in password field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:30 IST" name="tearDown" finished-at="2026-08-16T09:47:30 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:30 IST" name="setup" finished-at="2026-08-16T09:47:59 IST" duration-ms="28314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:47:59 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:48:02 IST" duration-ms="3515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[<script>alert('xss')</script>]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[XSS payload in email field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:02 IST" name="tearDown" finished-at="2026-08-16T09:48:02 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:02 IST" name="setup" finished-at="2026-08-16T09:48:12 IST" duration-ms="9513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:12 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:48:15 IST" duration-ms="3489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test..user@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email with consecutive dots]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:15 IST" name="tearDown" finished-at="2026-08-16T09:48:16 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:16 IST" name="setup" finished-at="2026-08-16T09:48:23 IST" duration-ms="7225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:23 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:48:26 IST" duration-ms="3500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[.test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email starting with a dot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:26 IST" name="tearDown" finished-at="2026-08-16T09:48:27 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:27 IST" name="setup" finished-at="2026-08-16T09:48:34 IST" duration-ms="7241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:34 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:48:37 IST" duration-ms="3488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a@b.c]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Single letter domain email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:37 IST" name="tearDown" finished-at="2026-08-16T09:48:38 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:38 IST" name="setup" finished-at="2026-08-16T09:48:44 IST" duration-ms="6048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:44 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:48:47 IST" duration-ms="3479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Short password below minimum length]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:47 IST" name="tearDown" finished-at="2026-08-16T09:48:48 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:48 IST" name="setup" finished-at="2026-08-16T09:48:56 IST" duration-ms="8534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:48:56 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-08-16T09:49:00 IST" duration-ms="3679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@qabrains.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Extremely long password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FAIL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.LoginNegativeTest@3c9754d8]" started-at="2026-08-16T09:49:00 IST" name="tearDown" finished-at="2026-08-16T09:49:00 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPackage.LoginNegativeTest -->
+      <class name="TestPackage.CommonFeature">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:00 IST" name="setup" finished-at="2026-08-16T09:49:07 IST" duration-ms="7308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:07 IST" name="loginToApplication" finished-at="2026-08-16T09:49:13 IST" duration-ms="5324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyCart()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:13 IST" name="verifyCart" finished-at="2026-08-16T09:49:13 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:13 IST" name="tearDown" finished-at="2026-08-16T09:49:13 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:13 IST" name="setup" finished-at="2026-08-16T09:49:24 IST" duration-ms="10987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:24 IST" name="loginToApplication" finished-at="2026-08-16T09:49:27 IST" duration-ms="3480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyCartClickable()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:27 IST" name="verifyCartClickable" finished-at="2026-08-16T09:49:33 IST" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartClickable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:33 IST" name="tearDown" finished-at="2026-08-16T09:49:33 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:33 IST" name="setup" finished-at="2026-08-16T09:49:41 IST" duration-ms="7139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:41 IST" name="loginToApplication" finished-at="2026-08-16T09:49:44 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyFacebook()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:49:44 IST" name="verifyFacebook" finished-at="2026-08-16T09:50:16 IST" duration-ms="31640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFacebook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:16 IST" name="tearDown" finished-at="2026-08-16T09:50:16 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:16 IST" name="setup" finished-at="2026-08-16T09:50:29 IST" duration-ms="12441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:29 IST" name="loginToApplication" finished-at="2026-08-16T09:50:33 IST" duration-ms="4026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyFooterByScrolling()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:33 IST" name="verifyFooterByScrolling" finished-at="2026-08-16T09:50:33 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFooterByScrolling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:33 IST" name="tearDown" finished-at="2026-08-16T09:50:33 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:33 IST" name="setup" finished-at="2026-08-16T09:50:50 IST" duration-ms="17443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:50 IST" name="loginToApplication" finished-at="2026-08-16T09:50:55 IST" duration-ms="5045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyHeaderDisplayed()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:55 IST" name="verifyHeaderDisplayed" finished-at="2026-08-16T09:50:55 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:55 IST" name="tearDown" finished-at="2026-08-16T09:50:56 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:50:56 IST" name="setup" finished-at="2026-08-16T09:51:04 IST" duration-ms="8551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:04 IST" name="loginToApplication" finished-at="2026-08-16T09:51:10 IST" duration-ms="5613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyLinkedIn()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:10 IST" name="verifyLinkedIn" finished-at="2026-08-16T09:51:21 IST" duration-ms="11034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinkedIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:21 IST" name="tearDown" finished-at="2026-08-16T09:51:21 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:21 IST" name="setup" finished-at="2026-08-16T09:51:28 IST" duration-ms="6514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:28 IST" name="loginToApplication" finished-at="2026-08-16T09:51:35 IST" duration-ms="7027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyLogo()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:35 IST" name="verifyLogo" finished-at="2026-08-16T09:51:35 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:35 IST" name="tearDown" finished-at="2026-08-16T09:51:35 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:35 IST" name="setup" finished-at="2026-08-16T09:51:45 IST" duration-ms="10046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:45 IST" name="loginToApplication" finished-at="2026-08-16T09:51:49 IST" duration-ms="4009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyLogoClickable()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:49 IST" name="verifyLogoClickable" finished-at="2026-08-16T09:51:49 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoClickable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:49 IST" name="tearDown" finished-at="2026-08-16T09:51:50 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:50 IST" name="setup" finished-at="2026-08-16T09:51:58 IST" duration-ms="8726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:51:58 IST" name="loginToApplication" finished-at="2026-08-16T09:52:03 IST" duration-ms="4090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyProfile()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:03 IST" name="verifyProfile" finished-at="2026-08-16T09:52:03 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:03 IST" name="tearDown" finished-at="2026-08-16T09:52:03 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:03 IST" name="setup" finished-at="2026-08-16T09:52:13 IST" duration-ms="10341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:13 IST" name="loginToApplication" finished-at="2026-08-16T09:52:17 IST" duration-ms="3486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:17 IST" name="verifyTitle" finished-at="2026-08-16T09:52:17 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:17 IST" name="tearDown" finished-at="2026-08-16T09:52:17 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:17 IST" name="setup" finished-at="2026-08-16T09:52:29 IST" duration-ms="11856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:29 IST" name="loginToApplication" finished-at="2026-08-16T09:52:32 IST" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyUrl()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:32 IST" name="verifyUrl" finished-at="2026-08-16T09:52:32 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:32 IST" name="tearDown" finished-at="2026-08-16T09:52:33 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:33 IST" name="setup" finished-at="2026-08-16T09:52:39 IST" duration-ms="6465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:39 IST" name="loginToApplication" finished-at="2026-08-16T09:52:43 IST" duration-ms="4312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="verifyYoutube()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:52:43 IST" name="verifyYoutube" finished-at="2026-08-16T09:53:11 IST" duration-ms="27418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYoutube -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestPackage.CommonFeature@2de23121]" started-at="2026-08-16T09:53:11 IST" name="tearDown" finished-at="2026-08-16T09:53:13 IST" duration-ms="2024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPackage.CommonFeature -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
