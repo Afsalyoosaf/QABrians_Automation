@@ -103,14 +103,14 @@ The following documents provide details about the testing process and results.
 
 | Document | Link |
 |---|---|
-| Test Plan | [View](./Test-Plan.pdf) |
-| Feature List | [View](./Feature-List.xlsx) |
-| Test Scenarios | [View](./Test-Scenarios.xlsx) |
-| Manual Test Cases | [View](./Manual-Test-Cases.xlsx) |
-| RTM | [View](./RTM.xlsx) |
-| Bug Report | [View](./Bug-Report.xlsx) |
-| Test Execution Report | [View](./Test-Execution-Report.xlsx) |
-| Test Summary Report | [View](./Test-Summary-Report.pdf) |
+| Test Plan | [View](QA_Brians/Test_Plan_Document.docx) |
+| Feature List | [View](QA_Brians/Feature%20List%20Report.docx) |
+| Test Scenarios | [View](QA_Brians/QA_Brains_Ecommerce.xlsx) |
+| Manual Test Cases | [View](QA_Brians/QA_Brains_Ecommerce.xlsx) |
+| RTM | [View](QA_Brians/QA_Brains_Ecommerce.xlsx) |
+| Bug Report | [View](QA_Brians/Bug%20report.xlsx) |
+| Test Execution Report | [View](QA_Brians/QA_Brains_Ecommerce.xlsx) |
+| Test Summary Report | [View](QA_Brians/Test%20Summary%20Report.docx) |
 
 Replace the placeholders with links to your actual Google Docs or Google Sheets documents. Ensure reviewers have permission to view them.
 
