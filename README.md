@@ -103,7 +103,7 @@ The following documents provide details about the testing process and results.
 
 | Document | Link |
 |---|---|
-| Test Plan | Add document link |
+| Test Plan | QA_Brians/Test_Plan_Document.docx |
 | Test Scenarios | Add document link |
 | Manual Test Cases | Add document link |
 | Requirements Traceability Matrix (RTM) | Add document link |
