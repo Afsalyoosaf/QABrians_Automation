@@ -116,13 +116,16 @@ Replace the placeholders with links to your actual Google Docs or Google Sheets 
 
 ## Test Execution Summary
 
+
 | Metric | Result |
-|---|---|
-| Total Test Cases | Add actual count |
-| Passed | Add actual count |
-| Failed | Add actual count |
-| Blocked / Skipped | Add actual count |
-| Pass Percentage | Add actual percentage |
+| :--- | :--- |
+| Total Test Cases | 50 |
+| Passed | 45 |
+| Failed | 3 |
+| Blocked | 1 |
+| Not Executed | 1 |
+| Pass Percentage | 90% |
+
 
 *Update this section with your actual test execution results.*
 
